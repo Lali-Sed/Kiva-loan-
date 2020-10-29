@@ -1,2 +1,3 @@
-# Kiva-loan-
-Kiva loan data analysis using seaborn
+# Kiva-loan
+Kiva loan data.
+Analyzed and visualized data using seaborn
